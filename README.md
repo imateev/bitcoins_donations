@@ -1,2 +1,3 @@
 # bitcoins_donations
 donate bitcoin
+bc1qekg5cw3nfe6eukyvn40p30n79lgar5lmart2jy
